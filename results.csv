@@ -262,3 +262,257 @@ abstract,detail_link,name,release_date,topics
 ,,,,
 ,,,,
 ,,,,
+first_name,laboratory_location,laboratory_name,laboratory_university,last_name,paper_name,paper_release_date
+Guo-Quan,P. R. China,Key Laboratory of Green Chemistry & Technology of Ministry of Education,Sichuan University,Yu,Electrochemical reactor dictates site selectivity in N -heteroarene carboxylations,2023-01-05
+Peng,USA,Department of Chemistry and Chemical Biology,Cornell University,Lin,Electrochemical reactor dictates site selectivity in N -heteroarene carboxylations,2023-01-05
+Da-Gang,P. R. China,Beijing National Laboratory for Molecular Sciences,,Yu,Electrochemical reactor dictates site selectivity in N -heteroarene carboxylations,2023-01-05
+Da-Gang,P. R. China,Beijing National Laboratory for Molecular Sciences,,Yu,Electrochemical reactor dictates site selectivity in N -heteroarene carboxylations,2023-01-05
+Adina,USA,Department of Astronomy & Astrophysics,University of Chicago,Bean,Early Release Science of the exoplanet WASP-39b with JWST NIRISS,2023-01-09
+Michael,Canada,Department of Physics and Institute for Research on Exoplanets,,Roy,Early Release Science of the exoplanet WASP-39b with JWST NIRISS,2023-01-09
+Luis,USA,School of Earth and Space Exploration,Arizona State University,Line,Early Release Science of the exoplanet WASP-39b with JWST NIRISS,2023-01-09
+Catriona,USA,Department of Astrophysical and Planetary Sciences,University of Colorado,Berta-Thompson,Early Release Science of the exoplanet WASP-39b with JWST NIRISS,2023-01-09
+Kazumasa,USA,Department of Astronomy & Astrophysics,University of California,Mukherjee,Early Release Science of the exoplanet WASP-39b with JWST NIRISS,2023-01-09
+Néstor,USA,Space Telescope Science Institute,,Nikolov,Early Release Science of the exoplanet WASP-39b with JWST NIRISS,2023-01-09
+Néstor,USA,Department of Physics & Astronomy,Johns Hopkins University,Sing,Early Release Science of the exoplanet WASP-39b with JWST NIRISS,2023-01-09
+Johanna,USA,Earth and Planets Laboratory,,Alam,Early Release Science of the exoplanet WASP-39b with JWST NIRISS,2023-01-09
+Zafar,USA,Department of Earth and Planetary Sciences,Johns Hopkins University,Allen,Early Release Science of the exoplanet WASP-39b with JWST NIRISS,2023-01-09
+Arianna,United Kingdom,Department of Physics and Astronomy,University College London,Changeat,Early Release Science of the exoplanet WASP-39b with JWST NIRISS,2023-01-09
+Angelos,Italy,INAF - Osservatorio Astrofisico di Arcetri,,Tsiaras,Early Release Science of the exoplanet WASP-39b with JWST NIRISS,2023-01-09
+Joanna,UK,School of Physical Sciences,The Open University,Barstow,Early Release Science of the exoplanet WASP-39b with JWST NIRISS,2023-01-09
+Heather,USA,Division of Geological and Planetary Sciences,,Knutson,Early Release Science of the exoplanet WASP-39b with JWST NIRISS,2023-01-09
+Ryan,USA,Department of Astronomy,University of Michigan,MacDonald,Early Release Science of the exoplanet WASP-39b with JWST NIRISS,2023-01-09
+Ryan,USA,Department of Astronomy and Carl Sagan Institute,Cornell University,Turner,Early Release Science of the exoplanet WASP-39b with JWST NIRISS,2023-01-09
+Thomas,Germany,Max Planck Institute for Astronomy,,Mancini,Early Release Science of the exoplanet WASP-39b with JWST NIRISS,2023-01-09
+Benjamin,USA,Department of Earth,,Rackham,Early Release Science of the exoplanet WASP-39b with JWST NIRISS,2023-01-09
+Benjamin,USA,Kavli Institute for Astrophysics and Space Research,,Rackham,Early Release Science of the exoplanet WASP-39b with JWST NIRISS,2023-01-09
+Jake,UK,Atmospheric,University of Oxford,Tan,Early Release Science of the exoplanet WASP-39b with JWST NIRISS,2023-01-09
+Vivien,France,Université Côte d’Azur,,Parmentier,Early Release Science of the exoplanet WASP-39b with JWST NIRISS,2023-01-09
+Natalie,USA,Astrobiology Program,,Batalha,Early Release Science of the exoplanet WASP-39b with JWST NIRISS,2023-01-09
+Quentin,USA,European Space Agency,,Kendrew,Early Release Science of the exoplanet WASP-39b with JWST NIRISS,2023-01-09
+Neale,Ireland,School of Physics,,Gibson,Early Release Science of the exoplanet WASP-39b with JWST NIRISS,2023-01-09
+Jayesh,India,School of Earth and Planetary Sciences (SEPS),,Goyal,Early Release Science of the exoplanet WASP-39b with JWST NIRISS,2023-01-09
+Mercedes,USA,Center for Astrophysics | Harvard & Smithsonian,,Powell,Early Release Science of the exoplanet WASP-39b with JWST NIRISS,2023-01-09
+Joshua,USA,Department of Physics,Utah Valley University,Lothringer,Early Release Science of the exoplanet WASP-39b with JWST NIRISS,2023-01-09
+Yamila,The Netherlands,Leiden Observatory,University of Leiden,Crouzet,Early Release Science of the exoplanet WASP-39b with JWST NIRISS,2023-01-09
+Yamila,the Netherlands,SRON Netherlands Institute for Space Research,,Miguel,Early Release Science of the exoplanet WASP-39b with JWST NIRISS,2023-01-09
+Karan,Germany,Universitäts-Sternwarte,,Heng,Early Release Science of the exoplanet WASP-39b with JWST NIRISS,2023-01-09
+Karan,Germany,Exzellenzcluster Origins,,Molaverdikhani,Early Release Science of the exoplanet WASP-39b with JWST NIRISS,2023-01-09
+Sarah,USA,Lunar and Planetary Laboratory,University of Arizona,Moran,Early Release Science of the exoplanet WASP-39b with JWST NIRISS,2023-01-09
+Giuseppe,Spain,Instituto de Astrofísica de Canarias (IAC),,Palle,Early Release Science of the exoplanet WASP-39b with JWST NIRISS,2023-01-09
+Giuseppe,Spain,Departamento de Astrofísica,,Morello,Early Release Science of the exoplanet WASP-39b with JWST NIRISS,2023-01-09
+Giuseppe,Italy,INAF- Palermo Astronomical Observatory,,Morello,Early Release Science of the exoplanet WASP-39b with JWST NIRISS,2023-01-09
+Kevin,USA,Johns Hopkins APL,,May,Early Release Science of the exoplanet WASP-39b with JWST NIRISS,2023-01-09
+Hannah,UK,School of Physics,University of Bristol,Alderson,Early Release Science of the exoplanet WASP-39b with JWST NIRISS,2023-01-09
+Eva-Maria,UK,Centre for Exoplanets and Habitability,University of Warwick,Wheatley,Early Release Science of the exoplanet WASP-39b with JWST NIRISS,2023-01-09
+Eva-Maria,UK,Department of Physics,University of Warwick,Wheatley,Early Release Science of the exoplanet WASP-39b with JWST NIRISS,2023-01-09
+Natasha,USA,NASA Ames Research Center,,Batalha,Early Release Science of the exoplanet WASP-39b with JWST NIRISS,2023-01-09
+Taylor,USA,BAER Institute,,Bell,Early Release Science of the exoplanet WASP-39b with JWST NIRISS,2023-01-09
+Jasmina,UAE,Department of Physics,New York University Abu Dhabi,Blecic,Early Release Science of the exoplanet WASP-39b with JWST NIRISS,2023-01-09
+Jasmina,UAE,Center for Astro,New York University Abu Dhabi,Blecic,Early Release Science of the exoplanet WASP-39b with JWST NIRISS,2023-01-09
+Jonathan,USA,Department of Physics & Astronomy,University of Kansas,Crossfield,Early Release Science of the exoplanet WASP-39b with JWST NIRISS,2023-01-09
+Claudio,Chile,Instituto de Astrofísica,,Caceres,Early Release Science of the exoplanet WASP-39b with JWST NIRISS,2023-01-09
+Claudio,Chile,N\’ucleo Milenio de Formaci\’on Planetaria (NPF),,Caceres,Early Release Science of the exoplanet WASP-39b with JWST NIRISS,2023-01-09
+Claudio,Chile,Centro de Astrofísica y Tecnologías Afines (CATA),,Caceres,Early Release Science of the exoplanet WASP-39b with JWST NIRISS,2023-01-09
+S.,UK,School of Physics and Astronomy,University of Leicester,Roman,Early Release Science of the exoplanet WASP-39b with JWST NIRISS,2023-01-09
+Katy,UK,Centre for Exoplanet Science,University of St Andrews,Chubb,Early Release Science of the exoplanet WASP-39b with JWST NIRISS,2023-01-09
+Patricio,Italy,INAF – Osservatorio Astrofisico di Torino,,Cubillos,Early Release Science of the exoplanet WASP-39b with JWST NIRISS,2023-01-09
+Patricio,Austria,Space Research Institute,,Cubillos,Early Release Science of the exoplanet WASP-39b with JWST NIRISS,2023-01-09
+Leen,Belgium,Institute of Astronomy,,Decin,Early Release Science of the exoplanet WASP-39b with JWST NIRISS,2023-01-09
+Jean-Michel,The Netherlands,Anton Pannekoek Institute for Astronomy,University of Amsterdam,Désert,Early Release Science of the exoplanet WASP-39b with JWST NIRISS,2023-01-09
+Joseph,USA,Planetary Sciences Group,University of Central Florida,Harrington,Early Release Science of the exoplanet WASP-39b with JWST NIRISS,2023-01-09
+Kevin,Switzerland,ARTORG Center for Biomedical Engineering,University of Bern,Heng,Early Release Science of the exoplanet WASP-39b with JWST NIRISS,2023-01-09
+Nicolas,Austria,Institute for Astrophysics,University of Vienna,Iro,Early Release Science of the exoplanet WASP-39b with JWST NIRISS,2023-01-09
+Eliza,USA,Department of Astronomy,University of Maryland,Nixon,Early Release Science of the exoplanet WASP-39b with JWST NIRISS,2023-01-09
+James,UK,Department of Physics,,Kirk,Early Release Science of the exoplanet WASP-39b with JWST NIRISS,2023-01-09
+Jessica,USA,California Institute of Technology,,Krick,Early Release Science of the exoplanet WASP-39b with JWST NIRISS,2023-01-09
+Pierre-Olivier,France,Université Paris-Saclay,,Lagage,Early Release Science of the exoplanet WASP-39b with JWST NIRISS,2023-01-09
+Monika,Switzerland,Département d’Astronomie,,Roche,Early Release Science of the exoplanet WASP-39b with JWST NIRISS,2023-01-09
+Luigi,Italy,Department of Physics,University of Rome “Tor Vergata”,Mancini,Early Release Science of the exoplanet WASP-39b with JWST NIRISS,2023-01-09
+Luigi,Italy,INAF - Turin Astrophysical Observatory,,Mancini,Early Release Science of the exoplanet WASP-39b with JWST NIRISS,2023-01-09
+Megan,USA,Steward Observatory,University of Arizona,Schlawin,Early Release Science of the exoplanet WASP-39b with JWST NIRISS,2023-01-09
+N.,UK,Department of Physics and Astronomy,University of Exeter,Mayne,Early Release Science of the exoplanet WASP-39b with JWST NIRISS,2023-01-09
+Seth,USA,Astronomy Department and Van Vleck Observatory,Wesleyan University,Redfield,Early Release Science of the exoplanet WASP-39b with JWST NIRISS,2023-01-09
+Laura,UK,Institute of Astronomy,University of Cambridge,Nixon,Early Release Science of the exoplanet WASP-39b with JWST NIRISS,2023-01-09
+Michael,Chile,Universidad Adolfo Ibáñez: Penalolen,,Roman,Early Release Science of the exoplanet WASP-39b with JWST NIRISS,2023-01-09
+P.,France,Maison de la Simulation,,Tremblin,Early Release Science of the exoplanet WASP-39b with JWST NIRISS,2023-01-09
+Olivia,France,Université de Paris Cité and Univ Paris Est Creteil,,Venot,Early Release Science of the exoplanet WASP-39b with JWST NIRISS,2023-01-09
+William,USA,Astrophysics and Planetary Sciences Department,University of Colorado Boulder,Waalkes,Early Release Science of the exoplanet WASP-39b with JWST NIRISS,2023-01-09
+Xi,USA,Department of Earth and Planetary Sciences,University of California Santa Cruz,Zhang,Early Release Science of the exoplanet WASP-39b with JWST NIRISS,2023-01-09
+Xi,USA,Department of Earth and Planetary Sciences,University of California Santa Cruz,Zhang,Early Release Science of the exoplanet WASP-39b with JWST NIRISS,2023-01-09
+Michael,USA,Carlson School of Management,University of Minnesota,Funk,Papers and patents are becoming less disruptive over time,2023-01-04
+Erin,USA,School of Sociology,University of Arizona,Leahey,Papers and patents are becoming less disruptive over time,2023-01-04
+Erin,USA,School of Sociology,University of Arizona,Leahey,Papers and patents are becoming less disruptive over time,2023-01-04
+Lili,UK,School of Physics,University of Bristol,Grant,Early Release Science of the Exoplanet WASP-39b with JWST NIRSpec G395H,2023-01-09
+Munazza,USA,Earth and Planets Laboratory,,Wallack,Early Release Science of the Exoplanet WASP-39b with JWST NIRSpec G395H,2023-01-09
+Natasha,USA,NASA Ames Research Center,,Batalha,Early Release Science of the Exoplanet WASP-39b with JWST NIRSpec G395H,2023-01-09
+Joshua,USA,Department of Physics,Utah Valley University,Lothringer,Early Release Science of the Exoplanet WASP-39b with JWST NIRSpec G395H,2023-01-09
+Jea,USA,Center for Astrophysics | Harvard & Smithsonian,,Powell,Early Release Science of the Exoplanet WASP-39b with JWST NIRSpec G395H,2023-01-09
+Saugata,The Netherlands,Anton Pannekoek Institute for Astronomy,University of Amsterdam,Désert,Early Release Science of the Exoplanet WASP-39b with JWST NIRSpec G395H,2023-01-09
+Jonathan,USA,Department of Physics & Astronomy,University of Kansas,Crossfield,Early Release Science of the Exoplanet WASP-39b with JWST NIRSpec G395H,2023-01-09
+Mario,USA,Astrophysics Section,,Hu,Early Release Science of the Exoplanet WASP-39b with JWST NIRSpec G395H,2023-01-09
+Tansu,USA,Department of Astrophysical Sciences,Princeton University,Daylan,Early Release Science of the Exoplanet WASP-39b with JWST NIRSpec G395H,2023-01-09
+Néstor,USA,Space Telescope Science Institute,,Nikolov,Early Release Science of the Exoplanet WASP-39b with JWST NIRSpec G395H,2023-01-09
+Néstor,USA,Department of Physics & Astronomy,Johns Hopkins University,Rustamkulov,Early Release Science of the Exoplanet WASP-39b with JWST NIRSpec G395H,2023-01-09
+Laura,USA,Department of Astronomy and Carl Sagan Institute,Cornell University,Turner,Early Release Science of the Exoplanet WASP-39b with JWST NIRSpec G395H,2023-01-09
+Jayesh,India,School of Earth and Planetary Sciences (SEPS),,Goyal,Early Release Science of the Exoplanet WASP-39b with JWST NIRSpec G395H,2023-01-09
+Renyu,USA,Division of Geological and Planetary Sciences,,Knutson,Early Release Science of the Exoplanet WASP-39b with JWST NIRSpec G395H,2023-01-09
+Elspeth,Switzerland,Center for Space and Habitability,University of Bern,Lee,Early Release Science of the Exoplanet WASP-39b with JWST NIRSpec G395H,2023-01-09
+Thomas,Germany,Max Planck Institute for Astronomy,,Mancini,Early Release Science of the Exoplanet WASP-39b with JWST NIRSpec G395H,2023-01-09
+Pierre-Alexis,Canada,Department of Physics and Institute for Research on Exoplanets,,Piaulet,Early Release Science of the Exoplanet WASP-39b with JWST NIRSpec G395H,2023-01-09
+Natalie,USA,Department of Astronomy & Astrophysics,University of California,Ohno,Early Release Science of the Exoplanet WASP-39b with JWST NIRSpec G395H,2023-01-09
+Jacob,USA,Department of Astronomy & Astrophysics,University of Chicago,Feinstein,Early Release Science of the Exoplanet WASP-39b with JWST NIRSpec G395H,2023-01-09
+Zachory,USA,Department of Astrophysical and Planetary Sciences,University of Colorado,Berta-Thompson,Early Release Science of the Exoplanet WASP-39b with JWST NIRSpec G395H,2023-01-09
+Quentin,USA,European Space Agency,,Changeat,Early Release Science of the Exoplanet WASP-39b with JWST NIRSpec G395H,2023-01-09
+Quentin,United Kingdom,Department of Physics and Astronomy,University College,Changeat,Early Release Science of the Exoplanet WASP-39b with JWST NIRSpec G395H,2023-01-09
+Knicole,USA,NASA Goddard Space Flight Center,,Colón,Early Release Science of the Exoplanet WASP-39b with JWST NIRSpec G395H,2023-01-09
+Daniel,USA,Center for Computational Astrophysics,,Foreman-Mackey,Early Release Science of the Exoplanet WASP-39b with JWST NIRSpec G395H,2023-01-09
+Neale,Ireland,School of Physics,,Gibson,Early Release Science of the Exoplanet WASP-39b with JWST NIRSpec G395H,2023-01-09
+Michael,USA,School of Earth and Space Exploration,Arizona State University,Welbanks,Early Release Science of the Exoplanet WASP-39b with JWST NIRSpec G395H,2023-01-09
+Karan,Germany,University Observatory Munich,University Observatory Munich,Molaverdikhani,Early Release Science of the Exoplanet WASP-39b with JWST NIRSpec G395H,2023-01-09
+Karan,Germany,Exzellenzcluster Origins,,Molaverdikhani,Early Release Science of the Exoplanet WASP-39b with JWST NIRSpec G395H,2023-01-09
+Sarah,USA,Lunar and Planetary Laboratory,University of Arizona,Moran,Early Release Science of the Exoplanet WASP-39b with JWST NIRSpec G395H,2023-01-09
+Giuseppe,Spain,Instituto de Astrofísica de Canarias (IAC),,Palle,Early Release Science of the Exoplanet WASP-39b with JWST NIRSpec G395H,2023-01-09
+Giuseppe,Spain,Departamento de Astrofísica,,Morello,Early Release Science of the Exoplanet WASP-39b with JWST NIRSpec G395H,2023-01-09
+Giuseppe,Italy,INAF- Palermo Astronomical Observatory,,Morello,Early Release Science of the Exoplanet WASP-39b with JWST NIRSpec G395H,2023-01-09
+Julianne,USA,Space Science Institute,,Moses,Early Release Science of the Exoplanet WASP-39b with JWST NIRSpec G395H,2023-01-09
+Everett,USA,Steward Observatory,University of Arizona,Mansfield,Early Release Science of the Exoplanet WASP-39b with JWST NIRSpec G395H,2023-01-09
+David,USA,Department of Earth and Planetary Sciences,Johns Hopkins University,Sing,Early Release Science of the Exoplanet WASP-39b with JWST NIRSpec G395H,2023-01-09
+Kevin,USA,Johns Hopkins APL,,May,Early Release Science of the Exoplanet WASP-39b with JWST NIRSpec G395H,2023-01-09
+Jake,UK,Atmospheric,University of Oxford,Tsai,Early Release Science of the Exoplanet WASP-39b with JWST NIRSpec G395H,2023-01-09
+Keshav,India,Indian Institute of Technology,,Aggarwal,Early Release Science of the Exoplanet WASP-39b with JWST NIRSpec G395H,2023-01-09
+Eva-Maria,UK,Centre for Exoplanets and Habitability,University of Warwick,Wheatley,Early Release Science of the Exoplanet WASP-39b with JWST NIRSpec G395H,2023-01-09
+Eva-Maria,UK,Department of Physics,University of Warwick,Wheatley,Early Release Science of the Exoplanet WASP-39b with JWST NIRSpec G395H,2023-01-09
+Joanna,UK,School of Physical Sciences,The Open University,Barstow,Early Release Science of the Exoplanet WASP-39b with JWST NIRSpec G395H,2023-01-09
+Taylor,USA,BAER Institute,,Bell,Early Release Science of the Exoplanet WASP-39b with JWST NIRSpec G395H,2023-01-09
+Jasmina,UAE,Department of Physics,New York University Abu Dhabi,Blecic,Early Release Science of the Exoplanet WASP-39b with JWST NIRSpec G395H,2023-01-09
+Jasmina,UAE,Center for Astro,New York University Abu Dhabi,Blecic,Early Release Science of the Exoplanet WASP-39b with JWST NIRSpec G395H,2023-01-09
+Sarah,UK,School of Physics and Astronomy,University of Leicester,Casewell,Early Release Science of the Exoplanet WASP-39b with JWST NIRSpec G395H,2023-01-09
+Katy,UK,Centre for Exoplanet Science,University of St Andrews,Chubb,Early Release Science of the Exoplanet WASP-39b with JWST NIRSpec G395H,2023-01-09
+Ziye,China,College of Marine Geosciences,Ocean University of China,Li,Neogene burial of organic carbon in the global ocean,2023-01-04
+Nicolas,The Netherlands,Leiden Observatory,University of Leiden,Miguel,Early Release Science of the Exoplanet WASP-39b with JWST NIRSpec G395H,2023-01-09
+Patricio,Italy,INAF – Osservatorio Astrofisico di Torino,,Cubillos,Early Release Science of the Exoplanet WASP-39b with JWST NIRSpec G395H,2023-01-09
+Patricio,Austria,Space Research Institute,,Cubillos,Early Release Science of the Exoplanet WASP-39b with JWST NIRSpec G395H,2023-01-09
+Leen,Belgium,Institute of Astronomy,,Decin,Early Release Science of the Exoplanet WASP-39b with JWST NIRSpec G395H,2023-01-09
+Joseph,USA,Planetary Sciences Group,University of Central Florida,Harrington,Early Release Science of the Exoplanet WASP-39b with JWST NIRSpec G395H,2023-01-09
+Kevin,Germany,Universitäts-Sternwarte,,Heng,Early Release Science of the Exoplanet WASP-39b with JWST NIRSpec G395H,2023-01-09
+Nicolas,Austria,Institute for Astrophysics,University of Vienna,Iro,Early Release Science of the Exoplanet WASP-39b with JWST NIRSpec G395H,2023-01-09
+Eliza,USA,Department of Astronomy,University of Maryland,Kempton,Early Release Science of the Exoplanet WASP-39b with JWST NIRSpec G395H,2023-01-09
+James,UK,Department of Physics,,Kirk,Early Release Science of the Exoplanet WASP-39b with JWST NIRSpec G395H,2023-01-09
+Jessica,USA,California Institute of Technology,,Krick,Early Release Science of the Exoplanet WASP-39b with JWST NIRSpec G395H,2023-01-09
+Jérémy,France,Laboratoire d’Astrophysique de Bordeaux,,Leconte,Early Release Science of the Exoplanet WASP-39b with JWST NIRSpec G395H,2023-01-09
+Monika,Switzerland,Département d’Astronomie,,Roche,Early Release Science of the Exoplanet WASP-39b with JWST NIRSpec G395H,2023-01-09
+Ryan,USA,Department of Astronomy,University of Michigan,MacDonald,Early Release Science of the Exoplanet WASP-39b with JWST NIRSpec G395H,2023-01-09
+Luigi,Italy,Department of Physics,University of Rome “Tor Vergata”,Mancini,Early Release Science of the Exoplanet WASP-39b with JWST NIRSpec G395H,2023-01-09
+Luigi,Italy,INAF - Turin Astrophysical Observatory,,Mancini,Early Release Science of the Exoplanet WASP-39b with JWST NIRSpec G395H,2023-01-09
+Ziye,USA,Department of Oceanography,Texas A&M University,Zhang,Neogene burial of organic carbon in the global ocean,2023-01-04
+Ziye,Germany,MARUM-Center for Marine Environmental Sciences,University of Bremen,Li,Neogene burial of organic carbon in the global ocean,2023-01-04
+Mark,USA,Department of Earth,Rice University,Torres,Neogene burial of organic carbon in the global ocean,2023-01-04
+Benjamin,UK,School of Earth and Environment,University of Leeds,Mills,Neogene burial of organic carbon in the global ocean,2023-01-04
+Benjamin,UK,School of Earth and Environment,University of Leeds,Mills,Neogene burial of organic carbon in the global ocean,2023-01-04
+Nathan,UK,Department of Physics and Astronomy,University of Exeter,Mayne,Early Release Science of the Exoplanet WASP-39b with JWST NIRSpec G395H,2023-01-09
+Yamila,the Netherlands,SRON Netherlands Institute for Space Research,,Miguel,Early Release Science of the Exoplanet WASP-39b with JWST NIRSpec G395H,2023-01-09
+Vivien,France,Université Côte d’Azur,,Parmentier,Early Release Science of the Exoplanet WASP-39b with JWST NIRSpec G395H,2023-01-09
+Benjamin,USA,Department of Earth,,Rackham,Early Release Science of the Exoplanet WASP-39b with JWST NIRSpec G395H,2023-01-09
+Benjamin,USA,Kavli Institute for Astrophysics and Space Research,,Rackham,Early Release Science of the Exoplanet WASP-39b with JWST NIRSpec G395H,2023-01-09
+Seth,USA,Astronomy Department and Van Vleck Observatory,Wesleyan University,Redfield,Early Release Science of the Exoplanet WASP-39b with JWST NIRSpec G395H,2023-01-09
+Laura,UK,Institute of Astronomy,University of Cambridge,Rogers,Early Release Science of the Exoplanet WASP-39b with JWST NIRSpec G395H,2023-01-09
+P.,France,Maison de la Simulation,,Tremblin,Early Release Science of the Exoplanet WASP-39b with JWST NIRSpec G395H,2023-01-09
+Miguel,USA,Planetary Science Institute,,Val-Borro,Early Release Science of the Exoplanet WASP-39b with JWST NIRSpec G395H,2023-01-09
+Olivia,France,Université de Paris Cité and Univ Paris Est Creteil,,Venot,Early Release Science of the Exoplanet WASP-39b with JWST NIRSpec G395H,2023-01-09
+Xi,USA,Department of Earth and Planetary Sciences,University of California Santa Cruz,Zhang,Early Release Science of the Exoplanet WASP-39b with JWST NIRSpec G395H,2023-01-09
+Xi,USA,Department of Earth and Planetary Sciences,University of California Santa Cruz,Zhang,Early Release Science of the Exoplanet WASP-39b with JWST NIRSpec G395H,2023-01-09
+Victor,USA,Department of Biochemistry,University of Texas Southwestern Medical Center,Nam,Structures and mechanisms of tRNA methylation by METTL1–WDR4,2023-01-04
+Victor,USA,Department of Biophysics,University of Texas Southwestern Medical Center,Nam,Structures and mechanisms of tRNA methylation by METTL1–WDR4,2023-01-04
+Victor,USA,Simmons Comprehensive Cancer Center,University of Texas Southwestern Medical Center,Nam,Structures and mechanisms of tRNA methylation by METTL1–WDR4,2023-01-04
+Victor,USA,Simmons Comprehensive Cancer Center,University of Texas Southwestern Medical Center,Nam,Structures and mechanisms of tRNA methylation by METTL1–WDR4,2023-01-04
+Cecilia,USA,Department of Astronomy,University of Maryland,Miller,Kilohertz quasiperiodic oscillations in short gamma-ray bursts,2023-01-09
+Cecilia,USA,Astroparticle Physics Laboratory,,Chirenti,Kilohertz quasiperiodic oscillations in short gamma-ray bursts,2023-01-09
+Cecilia,USA,Center for Research and Exploration in Space Science and Technology,,Chirenti,Kilohertz quasiperiodic oscillations in short gamma-ray bursts,2023-01-09
+Cecilia,Brazil,Center for Mathematics,,Chirenti,Kilohertz quasiperiodic oscillations in short gamma-ray bursts,2023-01-09
+Simone,USA,Department of Astronomy and Astrophysics,The Pennsylvania State University,Dichiara,Kilohertz quasiperiodic oscillations in short gamma-ray bursts,2023-01-09
+Amy,USA,Department of Chemistry,University of Tampa,Lien,Kilohertz quasiperiodic oscillations in short gamma-ray bursts,2023-01-09
+Robert,USA,Department of Space Science,University of Alabama in Huntsville,Preece,Kilohertz quasiperiodic oscillations in short gamma-ray bursts,2023-01-09
+Robert,USA,Department of Space Science,University of Alabama in Huntsville,Preece,Kilohertz quasiperiodic oscillations in short gamma-ray bursts,2023-01-09
+Jack,USA,Department of Molecular Biosciences,University of Texas at Austin,Taylor,RNA targeting unleashes indiscriminate nuclease activity of CRISPR–Cas12a2,2023-01-04
+Thomson,USA,Department of Chemistry and Biochemistry,Utah State University,Jackson,RNA targeting unleashes indiscriminate nuclease activity of CRISPR–Cas12a2,2023-01-04
+Chase,Germany,Helmholtz Institute for RNA-based Infection Research (HIRI),,Beisel,RNA targeting unleashes indiscriminate nuclease activity of CRISPR–Cas12a2,2023-01-04
+Chase,Germany,Medical Faculty,University of Würzburg,Beisel,RNA targeting unleashes indiscriminate nuclease activity of CRISPR–Cas12a2,2023-01-04
+David,USA,Interdisciplinary Life Sciences Graduate Program,University of Texas at Austin,Taylor,RNA targeting unleashes indiscriminate nuclease activity of CRISPR–Cas12a2,2023-01-04
+David,USA,Center for Systems and Synthetic Biology,University of Texas at Austin,Taylor,RNA targeting unleashes indiscriminate nuclease activity of CRISPR–Cas12a2,2023-01-04
+David,USA,LIVESTRONG Cancer Institutes,,Taylor,RNA targeting unleashes indiscriminate nuclease activity of CRISPR–Cas12a2,2023-01-04
+David,USA,LIVESTRONG Cancer Institutes,,Taylor,RNA targeting unleashes indiscriminate nuclease activity of CRISPR–Cas12a2,2023-01-04
+Eva-Maria,UK,Centre for Exoplanets and Habitability,University of Warwick,Anderson,Early Release Science of the exoplanet WASP-39b with JWST NIRCam,2023-01-09
+Eva-Maria,UK,Department of Physics,University of Warwick,Heng,Early Release Science of the exoplanet WASP-39b with JWST NIRCam,2023-01-09
+Kevin,USA,Johns Hopkins APL,,Sotzen,Early Release Science of the exoplanet WASP-39b with JWST NIRCam,2023-01-09
+Megan,USA,Steward Observatory,University of Arizona,Schlawin,Early Release Science of the exoplanet WASP-39b with JWST NIRCam,2023-01-09
+Sarah,USA,Lunar and Planetary Laboratory,University of Arizona,Moran,Early Release Science of the exoplanet WASP-39b with JWST NIRCam,2023-01-09
+Jonathan,USA,Department of Physics & Astronomy,University of Kansas,Crossfield,Early Release Science of the exoplanet WASP-39b with JWST NIRCam,2023-01-09
+Giuseppe,Spain,Instituto de Astrofísica de Canarias (IAC),,Palle,Early Release Science of the exoplanet WASP-39b with JWST NIRCam,2023-01-09
+Giuseppe,Spain,Departamento de Astrofísica,,Morello,Early Release Science of the exoplanet WASP-39b with JWST NIRCam,2023-01-09
+Giuseppe,Italy,INAF- Palermo Astronomical Observatory,,Morello,Early Release Science of the exoplanet WASP-39b with JWST NIRCam,2023-01-09
+Catriona,USA,Department of Astrophysical and Planetary Sciences,University of Colorado,Berta-Thompson,Early Release Science of the exoplanet WASP-39b with JWST NIRCam,2023-01-09
+Nikolay,USA,Space Telescope Science Institute,,Changeat,Early Release Science of the exoplanet WASP-39b with JWST NIRCam,2023-01-09
+Dominique,Switzerland,Département d’Astronomie,,Lendl,Early Release Science of the exoplanet WASP-39b with JWST NIRCam,2023-01-09
+Sebastian,Germany,Max Planck Institute for Astronomy,,Molaverdikhani,Early Release Science of the exoplanet WASP-39b with JWST NIRCam,2023-01-09
+Sebastian,The Netherlands,Leiden Observatory,University of Leiden,Miguel,Early Release Science of the exoplanet WASP-39b with JWST NIRCam,2023-01-09
+Natasha,USA,NASA Ames Research Center,,Batalha,Early Release Science of the exoplanet WASP-39b with JWST NIRCam,2023-01-09
+Mario,USA,Jet Propulsion Laboratory,,Damiano,Early Release Science of the exoplanet WASP-39b with JWST NIRCam,2023-01-09
+Jayesh,India,School of Earth and Planetary Sciences (SEPS),,Goyal,Early Release Science of the exoplanet WASP-39b with JWST NIRCam,2023-01-09
+Joshua,USA,Department of Physics,Utah Valley University,Lothringer,Early Release Science of the exoplanet WASP-39b with JWST NIRCam,2023-01-09
+Sagnick,USA,Department of Astronomy & Astrophysics,University of California,Fortney,Early Release Science of the exoplanet WASP-39b with JWST NIRCam,2023-01-09
+Natalie,USA,Astrobiology Program,,Batalha,Early Release Science of the exoplanet WASP-39b with JWST NIRCam,2023-01-09
+Jacob,USA,Department of Astronomy & Astrophysics,University of Chicago,Feinstein,Early Release Science of the exoplanet WASP-39b with JWST NIRCam,2023-01-09
+Thomas,USA,Department of Astronomy,University of Wisconsin-Madison,Beatty,Early Release Science of the exoplanet WASP-39b with JWST NIRCam,2023-01-09
+Björn,Canada,Department of Physics and Institute for Research on Exoplanets,,Taylor,Early Release Science of the exoplanet WASP-39b with JWST NIRCam,2023-01-09
+Patricio,Austria,Space Research Institute,,Carone,Early Release Science of the exoplanet WASP-39b with JWST NIRCam,2023-01-09
+Patricio,Italy,INAF – Osservatorio Astrofisico di Torino,,Cubillos,Early Release Science of the exoplanet WASP-39b with JWST NIRCam,2023-01-09
+Tansu,USA,Department of Astrophysical Sciences,Princeton University,Daylan,Early Release Science of the exoplanet WASP-39b with JWST NIRCam,2023-01-09
+Néstor,USA,Department of Physics & Astronomy,Johns Hopkins University,Allen,Early Release Science of the exoplanet WASP-39b with JWST NIRCam,2023-01-09
+Peter,USA,Earth and Planets Laboratory,,Alam,Early Release Science of the exoplanet WASP-39b with JWST NIRCam,2023-01-09
+Neale,Ireland,School of Physics,,Gibson,Early Release Science of the exoplanet WASP-39b with JWST NIRCam,2023-01-09
+Joseph,USA,Planetary Sciences Group,University of Central Florida,Harrington,Early Release Science of the exoplanet WASP-39b with JWST NIRCam,2023-01-09
+Renyu,USA,Astrophysics Section,,Hu,Early Release Science of the exoplanet WASP-39b with JWST NIRCam,2023-01-09
+Renyu,USA,Division of Geological and Planetary Sciences,,Knutson,Early Release Science of the exoplanet WASP-39b with JWST NIRCam,2023-01-09
+Nikole,USA,Department of Astronomy and Carl Sagan Institute,Cornell University,Turner,Early Release Science of the exoplanet WASP-39b with JWST NIRCam,2023-01-09
+Michael,USA,School of Earth and Space Exploration,Arizona State University,Shkolnik,Early Release Science of the exoplanet WASP-39b with JWST NIRCam,2023-01-09
+Mercedes,USA,Center for Astrophysics | Harvard & Smithsonian,,Kirk,Early Release Science of the exoplanet WASP-39b with JWST NIRCam,2023-01-09
+Vivien,UK,Atmospheric,University of Oxford,Taylor,Early Release Science of the exoplanet WASP-39b with JWST NIRCam,2023-01-09
+Vivien,France,Université Côte d’Azur,,Parmentier,Early Release Science of the exoplanet WASP-39b with JWST NIRCam,2023-01-09
+David,USA,Department of Earth and Planetary Sciences,Johns Hopkins University,Sotzen,Early Release Science of the exoplanet WASP-39b with JWST NIRCam,2023-01-09
+Hannah,UK,School of Physics,University of Bristol,Alderson,Early Release Science of the exoplanet WASP-39b with JWST NIRCam,2023-01-09
+Joanna,UK,School of Physical Sciences,The Open University,Barstow,Early Release Science of the exoplanet WASP-39b with JWST NIRCam,2023-01-09
+Taylor,USA,BAER Institute,,Bell,Early Release Science of the exoplanet WASP-39b with JWST NIRCam,2023-01-09
+Jasmina,UAE,Department of Physics,New York University Abu Dhabi,Blecic,Early Release Science of the exoplanet WASP-39b with JWST NIRCam,2023-01-09
+Jasmina,UAE,Center for Astro,New York University Abu Dhabi,Blecic,Early Release Science of the exoplanet WASP-39b with JWST NIRCam,2023-01-09
+Edward,UK,Mullard Space Science Laboratory,University College London,Bryant,Early Release Science of the exoplanet WASP-39b with JWST NIRCam,2023-01-09
+Matthew,UK,School of Physics and Astronomy,University of Leicester,Casewell,Early Release Science of the exoplanet WASP-39b with JWST NIRCam,2023-01-09
+Quentin,USA,European Space Agency,,Kendrew,Early Release Science of the exoplanet WASP-39b with JWST NIRCam,2023-01-09
+Quentin,United Kingdom,Department of Physics and Astronomy,University College London,Changeat,Early Release Science of the exoplanet WASP-39b with JWST NIRCam,2023-01-09
+Katy,UK,Centre for Exoplanet Science,University of St Andrews,Chubb,Early Release Science of the exoplanet WASP-39b with JWST NIRCam,2023-01-09
+Nicolas,The Netherlands,Leiden Observatory,Leiden University,Crouzet,Early Release Science of the exoplanet WASP-39b with JWST NIRCam,2023-01-09
+Leen,Belgium,Institute of Astronomy,,Decin,Early Release Science of the exoplanet WASP-39b with JWST NIRCam,2023-01-09
+Jean-Michel,The Netherlands,Anton Pannekoek Institute for Astronomy,University of Amsterdam,Désert,Early Release Science of the exoplanet WASP-39b with JWST NIRCam,2023-01-09
+John,USA,Department of Physics and Astronomy,University of Delaware,Gizis,Early Release Science of the exoplanet WASP-39b with JWST NIRCam,2023-01-09
+Kevin,Germany,University Observatory Munich,University Observatory Munich,Molaverdikhani,Early Release Science of the exoplanet WASP-39b with JWST NIRCam,2023-01-09
+Kevin,Switzerland,ARTORG Center for Biomedical Engineering,University of Bern,Heng,Early Release Science of the exoplanet WASP-39b with JWST NIRCam,2023-01-09
+Nicolas,Austria,Institute for Astrophysics,University of Vienna,Iro,Early Release Science of the exoplanet WASP-39b with JWST NIRCam,2023-01-09
+Eliza,USA,Department of Astronomy,University of Maryland,Komacek,Early Release Science of the exoplanet WASP-39b with JWST NIRCam,2023-01-09
+James,UK,Department of Physics,,Kirk,Early Release Science of the exoplanet WASP-39b with JWST NIRCam,2023-01-09
+Pierre-Olivier,France,Université Paris-Saclay,,Lagage,Early Release Science of the exoplanet WASP-39b with JWST NIRCam,2023-01-09
+Jérémy,France,Laboratoire d’Astrophysique de Bordeaux,,Leconte,Early Release Science of the exoplanet WASP-39b with JWST NIRCam,2023-01-09
+Ryan,USA,Department of Astronomy,University of Michigan,MacDonald,Early Release Science of the exoplanet WASP-39b with JWST NIRCam,2023-01-09
+Luigi,Italy,Department of Physics,University of Rome “Tor Vergata”,Mancini,Early Release Science of the exoplanet WASP-39b with JWST NIRCam,2023-01-09
+Luigi,Italy,INAF - Turin Astrophysical Observatory,,Mancini,Early Release Science of the exoplanet WASP-39b with JWST NIRCam,2023-01-09
+N.,United Kingdom,Department of Physics and Astronomy,University of Exeter,Mayne,Early Release Science of the exoplanet WASP-39b with JWST NIRCam,2023-01-09
+Yamila,the Netherlands,SRON Netherlands Institute for Space Research,,Miguel,Early Release Science of the exoplanet WASP-39b with JWST NIRCam,2023-01-09
+Karan,Germany,Exzellenzcluster Origins,,Molaverdikhani,Early Release Science of the exoplanet WASP-39b with JWST NIRCam,2023-01-09
+Benjamin,USA,Department of Earth,,Rackham,Early Release Science of the exoplanet WASP-39b with JWST NIRCam,2023-01-09
+Benjamin,USA,Kavli Institute for Astrophysics and Space Research,,Rackham,Early Release Science of the exoplanet WASP-39b with JWST NIRCam,2023-01-09
+Seth,USA,Astronomy Department and Van Vleck Observatory,Wesleyan University,Redfield,Early Release Science of the exoplanet WASP-39b with JWST NIRCam,2023-01-09
+Laura,UK,Institute of Astronomy,University of Cambridge,Rogers,Early Release Science of the exoplanet WASP-39b with JWST NIRCam,2023-01-09
+P.,France,Maison de la Simulation,,Tremblin,Early Release Science of the exoplanet WASP-39b with JWST NIRCam,2023-01-09
+Gregory,USA,Department of Physics,Brown University,Tucker,Early Release Science of the exoplanet WASP-39b with JWST NIRCam,2023-01-09
+Miguel,USA,Planetary Science Institute,,Val-Borro,Early Release Science of the exoplanet WASP-39b with JWST NIRCam,2023-01-09
+Olivia,France,Université de Paris Cité and Univ Paris Est Creteil,,Venot,Early Release Science of the exoplanet WASP-39b with JWST NIRCam,2023-01-09
+Xi,USA,Department of Earth and Planetary Sciences,University of California Santa Cruz,Zhang,Early Release Science of the exoplanet WASP-39b with JWST NIRCam,2023-01-09
+Xi,USA,Department of Earth and Planetary Sciences,University of California Santa Cruz,Zhang,Early Release Science of the exoplanet WASP-39b with JWST NIRCam,2023-01-09
