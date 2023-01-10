@@ -47,8 +47,7 @@ class NatureSpider(scrapy.Spider):
         item["release_date"] = response.meta.get("release_date")
         item["abstract"] = clear_join(response.css('div[id="Abs1-content"] ::text').getall())
         item["topics"] = response.css(".c-article-subject-list li ::text").getall()
-        yield item
-        
+
         for lab in response.css('div[id="author-information-content"] .c-article-author-affiliation__list li'):
             lab_info = lab.css('.c-article-author-affiliation__address ::text').get().split(", ")
             for author in lab.css(".c-article-author-affiliation__authors-list ::text").getall():
@@ -62,4 +61,5 @@ class NatureSpider(scrapy.Spider):
                 item["laboratory_university"] = self.get_university_name(lab_info)
                 item["laboratory_location"] = lab_info[-1]
                 yield item
+        yield item
 
